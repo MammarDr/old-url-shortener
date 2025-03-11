@@ -15,7 +15,7 @@ A sleek and user-friendly front-end for a URL Shortener, powered by [API Name]. 
 🚀 **Live Demo**: [Insert Live Demo Link]
 
 📂 **How to Use**:
-1. Clone the repository: `git clone https://github.com/yourusername/URLShortner.git`.
+1. Clone the repository: `git clone https://github.com/MammarDr/URLShortner.git`.
 2. Open `index.html` in your browser.
 3. Enter a long URL and click "Shorten" to generate a compact link.
 
